@@ -2,7 +2,7 @@
 title: How to write a Org-mode parser?
 tags: parser, org-mode, ocaml
 lang: en
-published: false
+published: true
 ---
 
 ** Test
@@ -10,3 +10,5 @@ published: false
 
 ** Test modification.
    test modifications.
+
+** Test publishing
